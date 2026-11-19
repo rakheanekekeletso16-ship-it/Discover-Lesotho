@@ -155,7 +155,7 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         }
 
-        // Set the initial filter and result count.
+    
         filterDestinations();
     }
 
